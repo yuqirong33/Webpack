@@ -11,3 +11,5 @@
 4. 执行`npm run server`,可开启本地服务器，启动热替换，默认监听8080端口
 
 [点击此处](https://pan.baidu.com/s/1crtGCI)可从百度云下载源码，这样就不必fork本文件夹啦。
+
+说明文档链接[点击此处](https://segmentfault.com/a/1190000006178770)
