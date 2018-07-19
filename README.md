@@ -12,4 +12,4 @@
 
 [点击此处](https://pan.baidu.com/s/1crtGCI)可从百度云下载源码，这样就不必fork本文件夹啦。
 
-说明文档链接[点击此处](https://segmentfault.com/a/1190000006178770)
+说明文档链接[](https://segmentfault.com/a/1190000006178770)
